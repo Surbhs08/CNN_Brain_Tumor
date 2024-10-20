@@ -63,11 +63,11 @@ Key components of the model:
 # Training loop
 Confusion Matrix: A heatmap to show the model's predictions.
 
-![Confusion matrix]("Assets/CF.png")
+![Confusion matrix](Assets/CFmatix.png)
 
 Output Plot: A plot displaying the model's prediction outputs.
 
-![Accuracy]("Assets/ACCpng")
+![Accuracy](Assets/modelaccuracy.png)
 
 
 
