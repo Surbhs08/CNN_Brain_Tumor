@@ -65,9 +65,9 @@ Confusion Matrix: A heatmap to show the model's predictions.
 
 ![Confusion matrix](Assets/CFmatix.png)
 
-Output Plot: A plot displaying the model's prediction outputs.
 
-![Accuracy](Assets/modelaccuracy.png)
+
+
 
 
 
